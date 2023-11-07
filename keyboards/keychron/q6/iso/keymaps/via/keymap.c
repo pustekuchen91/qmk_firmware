@@ -16,6 +16,8 @@
 
 #include QMK_KEYBOARD_H
 
+#include "keymap_german.h"
+
 // clang-format off
 
 enum layers{
